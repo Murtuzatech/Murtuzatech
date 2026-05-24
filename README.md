@@ -27,11 +27,8 @@ I am a passionate **Frontend Developer** and a **BCA Graduate** from Jaunpur, In
 
 ---
 
-### 📈 GitHub Stats:
-
-### 📈 GitHub Stats:
+### 📈 GitHub Trophies:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murtuzatech&show_icons=true&theme=dark" alt="Murtuza's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murtuzatech&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Murtuzatech&theme=radical&column=3&margin-w=15" alt="Murtuza's Trophies" />
+</p> 
