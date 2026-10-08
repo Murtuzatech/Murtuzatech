@@ -8,14 +8,11 @@
 
 </div>
 
-## 👋 Hi, I'm Murtuza
-**React.js Developer | BCA Graduate | Building real-world web applications**
+<img src="assets/about.svg" width="100%" alt="About Murtuza - React.js Developer, BCA Graduate, Jaunpur. Builds responsive web apps with React, Next.js, TypeScript and Tailwind CSS, plus AI-assisted features."/>
 
-I build responsive, user-focused interfaces with React.js, Next.js, TypeScript, Tailwind CSS and modern frontend tools, with clean component architecture, REST API integration and AI-assisted experiences (LLM APIs, prompt design, structured outputs).
+<img src="assets/process.svg" width="100%" alt="From idea to interface"/>
 
-📍 Jaunpur, Uttar Pradesh, India &nbsp;|&nbsp; 💼 Open to Frontend Developer opportunities
-
-## 🔥 Featured Projects
+<img src="assets/projects-title.svg" width="100%" alt="Things I've built"/>
 
 <div align="center">
 
@@ -24,8 +21,6 @@ I build responsive, user-focused interfaces with React.js, Next.js, TypeScript, 
 <a href="https://fuel-find-app.vercel.app/"><img src="assets/card-fuelfind.svg" width="49%" alt="FuelFind"/></a>
 <a href="https://ecommerce-react-project-16mn.vercel.app/"><img src="assets/card-shophub.svg" width="49%" alt="ShopHub"/></a>
 
-</div>
-
 | Project | Live Demo | Source Code |
 |---|---|---|
 | 🩺 BPTrack AI | [Open](https://bp-track-q2l1.vercel.app/) | [GitHub](https://github.com/Murtuzatech/BPTrack-Ai) |
@@ -33,30 +28,20 @@ I build responsive, user-focused interfaces with React.js, Next.js, TypeScript, 
 | ⛽ FuelFind | [Open](https://fuel-find-app.vercel.app/) | [GitHub](https://github.com/Murtuzatech/Fuel-find-app) |
 | 🛒 ShopHub | [Open](https://ecommerce-react-project-16mn.vercel.app/) | [GitHub](https://github.com/Murtuzatech/ecommerce-react-project) |
 
-## 🧰 Tech Stack
-<img src="assets/tech.svg" width="100%" alt="Tech stack"/>
+</div>
 
-## 💼 Experience
-**Frontend Developer Intern, Velocity Tech, Lucknow** · *June 2026 – August 2026*
-AI-Assisted Seller Reconciliation & Operations Platform
-- Built modular React data tables with multi-parameter filters, pagination and status indicators, reducing settlement verification time by ~35%.
-- Built reconciliation flows to track cancellations, returns and RTO events, surfacing unrecovered seller deductions.
-- Integrated context-aware LLM UI flows that turn raw discrepancy logs into plain-language summaries and resolution steps.
-- Implemented modal-driven dispute resolution interfaces with timestamped audit histories and status transitions.
-- Built interactive dashboard widgets for payout trends, recovery rates and discrepancy distributions.
+<img src="assets/tools.svg" width="100%" alt="Tools I build with"/>
 
-## 🎓 Education
-**Bachelor of Computer Applications (BCA)**, Veer Bahadur Singh Purvanchal University, Jaunpur · *2022 – 2025*
+<img src="assets/impact.svg" width="100%" alt="Real work, real projects"/>
 
-## 🤝 Let's Connect
+<img src="assets/experience.svg" width="100%" alt="Experience - Frontend Developer Intern at Velocity Tech, Lucknow, June to August 2026"/>
+
+<img src="assets/connect.svg" width="100%" alt="Let's connect"/>
+
 <div align="center">
-
-<img src="assets/connect.png" alt="Connect with Murtuza" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murtuza-husain-a82a07390)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murtuzatech)
 [![Email](https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh7597293@gmail.com)
-
-**"Code. Build. Learn. Repeat."**
 
 </div>
