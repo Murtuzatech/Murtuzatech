@@ -2,13 +2,13 @@
 
 <img src="assets/hero.svg" alt="Murtuza Husain - Frontend Developer" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Murtuzatech-0A0F24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murtuzatech)
+[![GitHub](https://img.shields.io/badge/GitHub-Murtuzatech-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murtuzatech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murtuza_Husain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murtuza-husain-a82a07390)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh7597293@gmail.com)
 
 </div>
 
-<img src="assets/about.svg" width="100%" alt="About Murtuza - React.js Developer, BCA Graduate, Jaunpur. Builds responsive web apps with React, Next.js, TypeScript and Tailwind CSS, plus AI-assisted features."/>
+<img src="assets/about.svg" width="100%" alt="About Murtuza - React.js Developer, BCA Graduate, Noida. Builds responsive web apps with React, Next.js, TypeScript and Tailwind CSS, plus AI-assisted features."/>
 
 <img src="assets/process.svg" width="100%" alt="From idea to interface"/>
 
@@ -41,7 +41,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murtuza-husain-a82a07390)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murtuzatech)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murtuzatech)
 [![Email](https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh7597293@gmail.com)
 
 </div>
